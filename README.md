@@ -1,5 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
+# Developed By :N Kannan
+# Reference No:2122223230097
 
 # Aim : 
 
